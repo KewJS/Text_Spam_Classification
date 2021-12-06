@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 data_local/zips
 bin/
 etc/
 include/
 spam_classification/
 docs/
-data_local/
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -136,4 +134,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> e28301d9d69a83d85e6132b7cd49990d8427f41d
