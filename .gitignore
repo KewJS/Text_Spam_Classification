@@ -1,0 +1,7 @@
+data_local/zips
+bin/
+etc/
+include/
+spam_classification/
+docs/
+data_local/
