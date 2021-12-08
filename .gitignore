@@ -1,9 +1,11 @@
 data_local/zips
 bin/
+models/
 etc/
 include/
 spam_classification/
 docs/
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
