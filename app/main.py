@@ -70,4 +70,7 @@ def read_index(q:Optional[str]=None):
     global AI_MODEL, AI_TOKENIZER, MODEL_METADATA, labels_legend_inverted
     query = q or "Hello world"
     preds_dict = predict(query)
-    return {"query": query, "results": preds_dict}
+    return {
+        "query": query, 
+        "results": preds_dict
+        }
